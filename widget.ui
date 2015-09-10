@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>544</width>
-    <height>353</height>
+    <width>1080</width>
+    <height>1280</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,10 +16,10 @@
   <widget class="QWidget" name="gridLayoutWidget">
    <property name="geometry">
     <rect>
-     <x>140</x>
-     <y>90</y>
-     <width>261</width>
-     <height>171</height>
+     <x>0</x>
+     <y>0</y>
+     <width>1080</width>
+     <height>1280</height>
     </rect>
    </property>
    <layout class="QGridLayout" name="gridLayout_2">
@@ -121,10 +121,10 @@
   <widget class="GLWidget" name="openGLWidget">
    <property name="geometry">
     <rect>
-     <x>140</x>
-     <y>80</y>
-     <width>261</width>
-     <height>191</height>
+     <x>0</x>
+     <y>0</y>
+     <width>1080</width>
+     <height>1280</height>
     </rect>
    </property>
   </widget>
