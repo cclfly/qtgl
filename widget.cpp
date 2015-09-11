@@ -5,7 +5,7 @@ Widget::Widget(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::Widget)
 {
-    //ui->openGLWidget=new GLWidget(0);
+    //ui->gridLayoutWidget->setGeometry(0,0,60,80);
     ui->setupUi(this);
     //ui->openGLWidget=new GLWidget;
 }
